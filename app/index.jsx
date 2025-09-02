@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
   },
   title: {
     marginVertical: 40,
-    fontSize: 28,
+    fontSize: 30,
   },
   link: {
     marginVertical: 20,
